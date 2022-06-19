@@ -11,7 +11,7 @@ class Boorualias:
     @commands.command()
     @commands.guild_only()
     @commands.bot_has_permissions(embed_links=True, add_reactions=True)
-    async def neko(self, ctx, *, tag=""):
+    async def booruneko(self, ctx, *, tag=""):
         """Neko images"""
 
         tag_default = " neko"
@@ -24,7 +24,7 @@ class Boorualias:
     @commands.guild_only()
     @commands.is_nsfw()
     @commands.bot_has_permissions(embed_links=True, add_reactions=True)
-    async def anal(self, ctx, *, tag=""):
+    async def booruanal(self, ctx, *, tag=""):
         """Anal images"""
 
         tag_default = " anal"
@@ -37,7 +37,7 @@ class Boorualias:
     @commands.guild_only()
     @commands.is_nsfw()
     @commands.bot_has_permissions(embed_links=True, add_reactions=True)
-    async def ass(self, ctx, *, tag=""):
+    async def booruass(self, ctx, *, tag=""):
         """Ass images"""
 
         tag_default = " ass"
@@ -50,7 +50,7 @@ class Boorualias:
     @commands.guild_only()
     @commands.is_nsfw()
     @commands.bot_has_permissions(embed_links=True, add_reactions=True)
-    async def bdsm(self, ctx, *, tag=""):
+    async def boorubdsm(self, ctx, *, tag=""):
         """Bdsm images"""
 
         tag_default = " bdsm"
@@ -63,7 +63,7 @@ class Boorualias:
     @commands.guild_only()
     @commands.is_nsfw()
     @commands.bot_has_permissions(embed_links=True, add_reactions=True)
-    async def boobs(self, ctx, *, tag=""):
+    async def booruboobs(self, ctx, *, tag=""):
         """Boobs images"""
 
         tag_default = " boobs"
@@ -76,7 +76,7 @@ class Boorualias:
     @commands.guild_only()
     @commands.is_nsfw()
     @commands.bot_has_permissions(embed_links=True, add_reactions=True)
-    async def cumon(self, ctx, *, tag=""):
+    async def boorucumon(self, ctx, *, tag=""):
         """Cum_on images"""
 
         tag_default = " cum_on_*"
@@ -88,7 +88,7 @@ class Boorualias:
     @commands.command()
     @commands.guild_only()
     @commands.bot_has_permissions(embed_links=True, add_reactions=True)
-    async def yaoi(self, ctx, *, tag=""):
+    async def booruyaoi(self, ctx, *, tag=""):
         """Yaoi images"""
 
         tag_default = " yaoi"
@@ -100,7 +100,7 @@ class Boorualias:
     @commands.command()
     @commands.guild_only()
     @commands.bot_has_permissions(embed_links=True, add_reactions=True)
-    async def lesbian(self, ctx, *, tag=""):
+    async def boorulesbian(self, ctx, *, tag=""):
         """Lesbian images"""
 
         tag_default = " lesbian yuri"
@@ -112,7 +112,7 @@ class Boorualias:
     @commands.command()
     @commands.guild_only()
     @commands.bot_has_permissions(embed_links=True, add_reactions=True)
-    async def milf(self, ctx, *, tag=""):
+    async def boorumilf(self, ctx, *, tag=""):
         """Milf images"""
 
         tag_default = " milf"
@@ -125,7 +125,7 @@ class Boorualias:
     @commands.guild_only()
     @commands.is_nsfw()
     @commands.bot_has_permissions(embed_links=True, add_reactions=True)
-    async def oral(self, ctx, *, tag=""):
+    async def booruoral(self, ctx, *, tag=""):
         """Oral images"""
 
         tag_default = " oral"
